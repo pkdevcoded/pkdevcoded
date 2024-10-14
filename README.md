@@ -2,7 +2,7 @@
 
 <p align="center"> 
   Contador de visitas<br>
-  <img src=" <img src="https://profile-counter.glitch.me/pkdevcoded/count.svg" />" />
+  <img src="https://profile-counter.glitch.me/pkdevcoded/count.svg" />
 </p>
 
 <p align="center">
