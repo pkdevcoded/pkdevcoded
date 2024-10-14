@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Olá, sou <a href="https://github.com/seu_usuario">seu_usuario</a>! 👋</h1>
 
-<!--
-**pkdevcoded/pkdevcoded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=seu_usuario&color=green" alt="Contador de visitas">
+</p>
 
-Here are some ideas to get you started:
+Bem-vindo ao meu perfil GitHub, onde compartilho projetos interessantes e contribuo para a comunidade. Vamos criar coisas incríveis juntos! ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre Mim
+Sou um desenvolvedor apaixonado por tecnologia, especializado em [sua especialização]. Estou sempre buscando aprender mais e melhorar minhas habilidades.
+
+## Contribuições
+Ao longo da minha jornada, contribuí para diversos projetos de código aberto, fornecendo soluções e compartilhando conhecimento com a comunidade.
+
+## Linguagens mais Usadas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuario&layout=compact&hide_border=true&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="Linguagens mais usadas">
+</p>
+
+## Atividade desde [Data]
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Atividade GitHub">
+</p>
